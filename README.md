@@ -3,4 +3,6 @@ This is an add-on CLI script writte in shell and python to use the open source p
 
 This script works (Python3, zsh, MacOS). But it is work in progress.
 
+Licensed under GPL 3.0.
+
 Jovan Petrov / 2024
